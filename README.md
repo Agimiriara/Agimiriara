@@ -1,7 +1,6 @@
 - 👋 Oi,Prazer pode me chamar de Iara 
 - 🌱 Desenvolvedora Java FullStack em Formação 
 - 👩‍💻 Aluna da Generation Brasil 
-- 🤍 
 
 
 <!---
