@@ -1,7 +1,7 @@
 - 👋 Oi,Prazer pode me chamar de Iara 
-- 🌱 Desenvolvedora Web em Formação 
+- 🌱 Desenvolvedora Java FullStack em Formação 
 - 👩‍💻 Aluna da Generation Brasil 
-- 🤍 Pronomes: Ela/dela.
+- 🤍 
 
 
 <!---
